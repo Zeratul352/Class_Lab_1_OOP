@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\andrey\source\repos\classlabwork_from_10.09.19\classlabwork_from_10.09.19</FILEPATH>
+      <FILENAME>river.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'River::length' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>River::{ctor}</FUNCTION>
+    <DECORATED>??0River@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
